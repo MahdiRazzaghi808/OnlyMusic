@@ -1,4 +1,5 @@
 # [Only Music](https://onlymusic.iran.liara.run/index.html)
+This site is developed with vanilla js It has a light and dark theme. Among the other features of the site is the user panel, making a playlist, etc.The api site is a filter, use the VPN
 
 <p align="left">
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img
